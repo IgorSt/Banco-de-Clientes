@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Carteira de Clientes</string>
+    <string name="title_activity_main">Carteira de Clientes</string>
+    <string name="title_activity_act_cad_cliente">ActCadCliente</string>
+    <string name="lbl_nome">Nome</string>
+    <string name="lbl_endereco">Endereço</string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_telefone">Telefone</string>
+    <string name="title_menu_ok">Ok</string>
+    <string name="title_menu_cancelar">Cancelar</string>
+    <string name="message_conexao_criada_sucesso">Conexão com o banco de dados criada com sucesso!</string>
+    <string name="action_ok">OK</string>
+    <string name="title_erro_banco">Erro ao conectar com o banco de dados!</string>
+    <string name="title_menu_excluir">Excluir</string>
+</resources>
